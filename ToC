@@ -1,1 +1,7 @@
 Table of contents for final report 
+
+Analysis of three cases
+	1.What data will be created or collected (type, size, format, etc.)
+	2.What licenses apply to the data
+	3.at  facilities  and  equipment  will  be  required  (hard  disk  space,  backup	 server, central repository, off-site repository, etc.)
+	4.at  data  management  practices  (backups,  storage,  access  control, archiving	 etc.) will be used
