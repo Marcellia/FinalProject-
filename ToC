@@ -4,16 +4,20 @@ Introduction of Problem
 
 Data Management Report (Periwinkle, Green, & Pinkerton)
 
+Information about data & data format
 (Ankita)1.What data will be created or collected (type, size, format, etc.)
 	2.What licenses apply to the data
 
+Data Management Practices 
 (Janice)3.at  facilities  and  equipment  will  be  required  (hard  disk  space, backup server, central repository, off-site repository, etc.)
 	4.what data  management  practices  (backups,  storage,  access  control, archiving etc.) will be used
 
+Policies for Access, Sharing, and Re-use
 	5.Who will own and have access to the data
 (Brett)	6.Which data will retain value after the life of the project
 	7.What metadata and linked open data strategies will be employed
 
+Long-term storage and data management, budget
 (Jamie)	8.How  will  its  reuse  be  enabled  and  long-term  preservation  ensured  after the original research is completed
 	9.How much will the storage of this data cost (cloud and/or hard drives)
 
