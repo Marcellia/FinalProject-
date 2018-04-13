@@ -20,7 +20,7 @@ Policies for Access, Sharing, and Re-use
 Long-term storage and data management, budget
 (Jamie)	8.How  will  its  reuse  be  enabled  and  long-term  preservation  ensured  after the original research is completed
 	9.How much will the storage of this data cost (cloud and/or hard drives)
-Recommendation
+
 Conclusion 
 
 
